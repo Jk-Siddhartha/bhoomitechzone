@@ -813,7 +813,7 @@ p {
   display: flex;
   flex-direction: column;
   position: absolute;
-  top: 9%;
+  top: 8.5%;
   left: 0;
   width: 100%;
   background: rgba(0, 0, 0, 0.8);
@@ -1027,5 +1027,96 @@ p {
 
   .social-icons i:hover {
     color: #0dd;
+  }
+
+  .why-to-choose-us h1 {
+    padding: 2% 0;
+  }
+
+  .why-to-choose-us-cards {
+    display: flex;
+    flex-direction: column;
+    padding: 4% 10%;
+    align-items: center;
+    justify-content: center;
+    gap: 0.2rem;
+  }
+
+  .why-to-choose-us-card {
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    cursor: pointer;
+    margin: 1% 0.5%;
+    padding: 2% 3%;
+    background-color: #fff;
+    border-radius: 2px;
+    text-align: center;
+    transition: box-shadow 0.3s, color 0.3s;
+  }
+
+  .sub-navbar {
+    padding: 2% 6%;
+  }
+
+  .join-team-text {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: center;
+    padding: 1% 0;
+  }
+
+  .join-team-text > div {
+    padding: 0 8%;
+    text-align: justify;
+  }
+
+  .join-team-text h3 {
+    padding: 2% 0;
+  }
+
+  .join-team img {
+    width: 80%;
+  }
+
+  .current-openings h2 {
+    padding: 2% 0;
+  }
+
+  .openings {
+    padding: 1% 6%;
+    width: 100%;
+    min-height: 70vh;
+    background: rgba(0, 0, 0, 0.1);
+  }
+
+  .contact-details {
+    flex-direction: column;
+    align-items: center;
+    padding: 2% 0;
+  }
+
+  .contact .bg {
+    width: 80%;
+  }
+
+  .contact-details .details {
+    width: 100%;
+  }
+
+  .details div {
+    width: 80%;
+  }
+
+  .contact-form-outer {
+    flex-direction: column-reverse;
+    margin: 5% 0;
+  }
+
+  .contact-form {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    margin: 1rem 0;
   }
 }

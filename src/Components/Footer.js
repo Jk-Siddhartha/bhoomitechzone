@@ -10,7 +10,7 @@ const Footer = () => {
           <p>A-43, Sector 63 Noida UP - 201301</p>
           <p>
             <b>Phone:</b>
-            <span>+91 9988776655</span>
+            <span>+91 8130787194</span>
           </p>
           <p>
             <b>Email:</b>

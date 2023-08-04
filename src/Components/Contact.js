@@ -39,7 +39,7 @@ const Contact = () => {
           </div>
           <div>
             <i className="fas fa-mobile-alt"></i>
-            <h3>+91 9988776655</h3>
+            <h3>+91 8130787194</h3>
           </div>
         </div>
       </div>
