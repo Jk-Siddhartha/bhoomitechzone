@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bhoomitechzone/static/css/main.829da292.css",
+    "main.js": "/bhoomitechzone/static/js/main.3f139cd5.js",
+    "static/media/image3.jpg": "/bhoomitechzone/static/media/image3.de9250c0ec642727e6c8.jpg",
+    "static/media/image2.jpg": "/bhoomitechzone/static/media/image2.31285b11d32fe4ee3830.jpg",
+    "static/media/office.jpg": "/bhoomitechzone/static/media/office.373c70fac3c711721dc9.jpg",
+    "static/media/bg.jpg": "/bhoomitechzone/static/media/bg.998f998fc485051628d4.jpg",
+    "static/media/contactbg.jpg": "/bhoomitechzone/static/media/contactbg.2ea914259f43a7c3fcff.jpg",
+    "static/media/goku.jpg": "/bhoomitechzone/static/media/goku.a085c075a50456124fd4.jpg",
+    "static/media/image1.jpg": "/bhoomitechzone/static/media/image1.0e4715b1e31fe9ac36b0.jpg",
+    "static/media/contactbg1.jpg": "/bhoomitechzone/static/media/contactbg1.ec706a333e2a9ac9acaf.jpg",
+    "static/media/logo.png": "/bhoomitechzone/static/media/logo.f076e49ad93a2c663d2e.png",
+    "static/media/slick.svg": "/bhoomitechzone/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/bhoomitechzone/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/bhoomitechzone/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/bhoomitechzone/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/bhoomitechzone/index.html",
+    "main.829da292.css.map": "/bhoomitechzone/static/css/main.829da292.css.map",
+    "main.3f139cd5.js.map": "/bhoomitechzone/static/js/main.3f139cd5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.829da292.css",
+    "static/js/main.3f139cd5.js"
+  ]
+}
