@@ -18,7 +18,7 @@ const Services = ({ courseData }) => {
           <NavLink to="/" className="navlink">
             Home
           </NavLink>
-          <span>/</span>
+          <span> / </span>
           <NavLink to="/services" className="navlink">
             Services
           </NavLink>

@@ -5,6 +5,7 @@ import About from "./Components/About";
 import Career from "./Components/Career";
 import Contact from "./Components/Contact";
 import Services from "./Components/Services";
+import PlacementAndTraining from "./Components/PlacementAndTraining";
 
 const App = () => {
   const courseData = [
@@ -101,6 +102,11 @@ const App = () => {
         <Route
           path="/about"
           element={<About courseData={courseData} />}
+          exact
+        />
+        <Route
+          path="/placementandtraining"
+          element={<PlacementAndTraining />}
           exact
         />
         <Route path="/career" element={<Career />} exact />

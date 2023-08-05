@@ -19,7 +19,7 @@ const Career = () => {
           <NavLink to="/" className="navlink">
             Home
           </NavLink>
-          <span>/</span>
+          <span> / </span>
           <NavLink to="/about" className="navlink">
             About
           </NavLink>
